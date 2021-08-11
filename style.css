@@ -1,0 +1,66 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+
+.elemento1, .elemento2{
+
+    float: left;
+    
+}
+
+.elemento2{
+    
+   margin-left: 80%;
+   
+      
+}
+
+#boton{
+
+    font-size: 30px;
+    color: rgb(255, 255, 255);  
+  
+}
+
+
+.btn:hover{
+
+    background-color: rgb(24, 0, 133);
+}
+
+header{
+
+    padding: 30px 30px;
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 4%;
+}
+
+#bienvenida{
+
+    max-height: 1000px;
+    max-width: 2000px;
+    margin-left: 15%;
+}
+
+span{
+
+    color: lawngreen;
+    
+}
+footer{
+
+    background-color: black;
+    font-size: 30px;
+    max-height: 100px;
+    color: white;
+   text-align: left;
+   position: absolute;
+}
+
+.span1{
+
+    color: white;
+}

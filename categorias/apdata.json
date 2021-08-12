@@ -1,0 +1,46 @@
+[
+    {
+      "precio": 350000,
+      "id": 1,
+      "title": "Keratina",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/keratina.JPG?raw=true"
+    },
+    {
+      "precio": 80000,
+      "id": 2,
+      "title": "Losion Salome",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/locion%20salome.JPG?raw=true"
+    },
+    {
+      "precio": 90000,
+      "id": 3,
+      "title": "Locion Dispa",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/locion%20dipsa.JPG?raw=true"
+    },
+    {
+      "precio": 60000,
+      "id": 4,
+      "title": "Silicona",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/silicona%20samy.JPG?raw=true"
+    },
+    {
+      "precio": 200000,
+      "id": 5,
+      "title": "Pro-Line",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/pro%20line.JPG?raw=true"
+    },
+    {
+      "precio": 150000,
+      "id": 6,
+      "title": "Shampoo",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/shampoo.JPG?raw=true"
+    }
+
+]
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+[
+
+
+
+    {
+      "precio": 70000,
+      "id": 1,
+      "title": "Cera Enkor",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/cero%20fijadora%20enkor.JPG?raw=true"
+    },
+    {
+      "precio": 80000,
+      "id": 2,
+      "title": "Cool Care",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/cool%20care%20andis.JPG?raw=true"
+    },
+    {
+      "precio": 90000,
+      "id": 3,
+      "title": "Espuma Bavaria",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/espuma%20bavaria.JPG?raw=true"
+    },
+    {
+      "precio": 60000,
+      "id": 4,
+      "title": "Gel Fijador N17",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/gel%20fijador%20n17.JPG?raw=true"
+    },
+    {
+      "precio": 200000,
+      "id": 5,
+      "title": "Laxios glicol",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/Laxios%20glicol.JPG?raw=true"
+    },
+    {
+      "precio": 95000,
+      "id": 6,
+      "title": "gel parx",
+      "thumbnailUrl": "https://github.com/Yohaldry/RemiE-comerse/blob/main/Imageness/gel%20parx.JPG?raw=true"
+    }
+
+   
+  ]

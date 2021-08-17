@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/categorias/formulario/style.css">
+   
+   
+</head>
+<body>
+
+    <div class="container1">
+        <header class="header">
+          <h1 id="title" class="text-center">Información de Pago</h1>
+        </header>
+        <form id="survey-form">
+          <div class="form-group">
+            <label id="name-label" for="name">Nombre Completo</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              class="form-control"
+              placeholder="Ingrese su nombre"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="email-label" for="email">Correo Electronico</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              class="form-control"
+              placeholder="Ingrese su correo"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="tarjeta-label" for="tarjeta">No. tarjeta</label>
+            <input
+              type="tarjeta"
+              name="tarjeta"
+              id="tarjeta"
+              class="form-control"
+              placeholder="Numero de tarjeta"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="vencimiento" for="vencimiento">Fecha de Vencimiento</label>
+            <input
+              type="vencimiento"
+              name="vencimiento"
+              id="vencimiento"
+              class="form-control"
+              placeholder="F.vencimiento MM/AA"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="CVV" for="CVV">CVV</label>
+            <input
+              type="CVV"
+              name="CVV"
+              id="CVV"
+              class="form-control"
+              placeholder="CVV"
+              required
+            />
+          </div>
+          <button class="btn btn-danger btn-sm" id="vaciar-carrito" onclick="alert('Pago Realizado')" value="PAGAR">
+            PAGAR
+          </button>
+          
+        </form>
+        <button class="btn-danger" id="regresar-a-carrito">
+          CANCELAR
+        </button>
+      </div>   
+</body>
+</html>

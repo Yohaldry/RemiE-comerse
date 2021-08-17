@@ -1,0 +1,367 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920___1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920___1 {
+    position: absolute;
+    width: 2184px;
+    height: 1017px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_1 {
+    position: absolute;
+    overflow: visible;
+    width: 2184px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+    
+}
+#Rect_ngulo_2_i {
+    opacity: 0.92;
+}
+.Rect_ngulo_2_i {
+    position: absolute;
+    overflow: visible;
+    width: 2184px;
+    height: 924px;
+    left: 0px;
+    top: 93px;
+}
+#Rect_ngulo_7 {
+    opacity: 0.75;
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 2184px;
+    height: 924px;
+    left: 0px;
+    top: 93px;
+}
+#Rect_ngulo_5 {
+    opacity: 0.84;
+}
+.Rect_ngulo_5 {
+    position: absolute;
+    overflow: visible;
+    width: 379px;
+    height: 474px;
+    left: 1045px;
+    top: 186px;
+}
+.Rect_ngulo_6 {
+    position: absolute;
+    overflow: visible;
+    width: 962px;
+    height: 245px;
+    left: 554px;
+    top: 301px;
+}
+#Rect_ngulo_3 {
+    opacity: 0.36;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 519px;
+    height: 474px;
+    left: 619px;
+    top: 214px;
+}
+#Ingresa_tu_Nombre {
+    position: absolute;
+    left: 1164px;
+    top: 359px;
+    overflow: visible;
+    width: 412px;
+    height: 92px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(193,28,28,1);
+    letter-spacing: 0.07px;
+}
+#REMI {
+    position: absolute;
+    left: 218px;
+    top: 1px;
+    overflow: visible;
+    width: 212px;
+    height: 92px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 65px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.07px;
+}
+#Bienveni__es_un_gusto_tenerte_ {
+    position: absolute;
+    left: 641px;
+    top: 241px;
+    overflow: visible;
+    width: 476px;
+    height: 447px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.07px;
+}
+#Nombre {
+    position: absolute;
+    left: 1156px;
+    top: 400px;
+    overflow: visible;
+    width: 361px;
+    height: 93px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.07px;
+}
+.Rect_ngulo_4 {
+    position: absolute;
+    overflow: visible;
+    width: 2184px;
+    height: 42px;
+    left: 0px;
+    top: 975px;
+}
+#REMI_tu_E_Comerce_Favorito {
+    position: absolute;
+    left: 1575.5px;
+    top: 978.5px;
+    overflow: visible;
+    width: 384px;
+    height: 39px;
+    text-align: right;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.07px;
+}
+#Contactos___322__390_89_03 {
+    position: absolute;
+    left: 200px;
+    top: 975.5px;
+    overflow: hidden;
+    width: 694px;
+    height: 30px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.07px;
+}
+#Pol_gono_2 {
+    opacity: 0.05;
+}
+.Pol_gono_2 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,346,232) rotate(-21deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_3 {
+    opacity: 0.07;
+}
+.Pol_gono_3 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,190,146.0001) rotate(209deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_4 {
+    opacity: 0.14;
+}
+.Pol_gono_4 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,56.485,219) rotate(107deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_5 {
+    opacity: 0.14;
+}
+.Pol_gono_5 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,346,451) rotate(-21deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_6 {
+    opacity: 0.12;
+}
+.Pol_gono_6 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,188,350.0001) rotate(209deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_7 {
+    opacity: 0.03;
+}
+.Pol_gono_7 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,56.485,448) rotate(107deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_8 {
+    opacity: 0.08;
+}
+.Pol_gono_8 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,372,650) rotate(-21deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_9 {
+    opacity: 0.07;
+}
+.Pol_gono_9 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,190,517.0001) rotate(209deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_10 {
+    opacity: 0.11;
+}
+.Pol_gono_10 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,74.485,621) rotate(107deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_11 {
+    opacity: 0.03;
+}
+.Pol_gono_11 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,362,806) rotate(-21deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_12 {
+    opacity: 0.07;
+}
+.Pol_gono_12 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,219.288,733.0001) rotate(209deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Pol_gono_13 {
+    opacity: 0.08;
+}
+.Pol_gono_13 {
+    overflow: hidden;
+    position: absolute;
+    width: 137px;
+    height: 115px;
+    transform: matrix(1,0,0,1,100.485,835) rotate(107deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.form-input{
+
+    font-size: 25px;
+    color: rgb(50, 100, 0);
+}
+
+.btn-submit{
+
+    width: 50%;
+    outline: none ;
+    background: #ff1b1b;
+    font-size: 20px;
+    border-radius: 80%;
+    padding: 10px 0;
+    color: #fff;
+    cursor: pointer;
+    transition: all .5s ease;
+
+}
+
+.btn-submit:Hover{
+
+    background-color: black;
+    opacity: 0.6;
+}

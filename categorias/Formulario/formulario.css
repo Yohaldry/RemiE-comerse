@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+:root{
+
+    --nav-bar: rgb(31, 31, 31);
+    --color-letras: rgb(248, 248, 248);
+    --fondo-contenido:rgb(255, 255, 255);
+    --botones-Hover: rgb(16, 0, 157);
+
+}
+
+body{
+    background-image: url(../Formulario/FONDO\ PRINCIPAL.jpg);
+    fill-opacity: 0.6;
+}
+
+.card-body{
+
+   color: black;
+}
+
+
+.container{
+
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    color: var(--color-letras);
+}
+
+
+
+html{
+
+    box-sizing: border-box;
+    background-color: var(--fondo-contenido);
+    
+}
+
+body{
+
+    font-family: 'Righteous', cursive;
+}
+
+.navbar{
+
+    background-color: var(--nav-bar);
+}
+
+.boton-carrito{
+
+    width: 20%;
+    outline: none ;
+    background: #ffffff;
+    font-size: 36px;
+    border-radius: 10%;
+    border-color: var(--botones-Hover);
+    padding: 05px 0;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: all .5s ease;
+
+}
+
+.boton-carrito:hover{
+
+    background-color: var(--botones-Hover);
+}
+
+.img-categorias{
+
+    width: 600px;
+    box-sizing: border-box;
+}
+
+.btn:hover{
+
+    background-color: var(--botones-Hover);
+    
+}
+
+.contenedor .form .form-header .form-title{
+
+    font-weight: normal;
+    font-family: sans-serif;
+        color: #ffffff;
+        text-align: center;
+        padding: 14px 0;
+}
+
+.contenedor .form .form-header .form-title span{
+
+    color: white;
+    
+}
+
+.contenedor .form{
+
+    background: rgba(0,0,0,.6);
+    width: 90%;
+    max-width: 650px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+
+.contenedor .form .form-label{
+
+    display: block;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.contenedor .form .form-input, .form-textarea{
+
+    background: rgba(0,0,0,.7);
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #0b00dc;
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    font-size: 14px;
+    color:seashell;
+    font-family:monospace
+
+}
+
+.contenedor .form .form-textarea{
+
+    resize: vertical;
+    max-height: 150px;
+    min-height: 50px;
+}
+
+.contenedor .form .btn-submit{
+
+    width: 100%;
+    outline: none ;
+    background: #0300b8;
+    font-size: 16px;
+    border: none;
+    padding: 15px 0;
+    color: #fff;
+    cursor: pointer;
+    transition: all .5s ease;
+
+}
+
+.contenedor .form .btn-submit:hover{
+
+    background: #ffffff;
+    color: black;
+
+}
+
+.radio{
+
+    color: rgb(245, 250, 248);
+    font-size: 16px;
+    border: none;
+}
